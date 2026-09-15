@@ -4,8 +4,8 @@
 
 | Component | Description | File Type | Download Link |
 | :--- | :--- | :--- | :--- |
-| **/e/OS ROM** | Operating system installation package | `.zip` | [Download /e/OS](https://images.ecloud.global/) |
-| **/e/OS Recovery** | Custom recovery partition image | `.img` | [Download Recovery](https://images.ecloud.global/) |
+| **/e/OS ROM** | Operating system installation package | `.zip` | [Download /e/OS](https://github.com/Android-Ports-Archive/Android-Ports-Sapphire-/releases/download/e%2Fos/e-4.2-a16-20260915-unofficial-sapphire.zip) |
+| **/e/OS Recovery** | Custom recovery partition image | `.img` | [Download Recovery](https://github.com/Android-Ports-Archive/Android-Ports-Sapphire-/releases/download/e%2Fos/recovery.img) |
 
 
 ```markdown
